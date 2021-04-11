@@ -54,5 +54,7 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-crashlytics-build.properties
+Library
+Temp
 
+Library/Artifacts/89/8990cbf5a7b0e302afe97fbc5472875a
